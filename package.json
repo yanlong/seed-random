@@ -1,0 +1,16 @@
+{
+  "name": "seed-rand",
+  "version": "1.0.0",
+  "description": "Generate random number with seed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "random",
+    "seed",
+    "seed-random"
+  ],
+  "author": "yanlong",
+  "license": "ISC"
+}
