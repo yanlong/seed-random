@@ -3,12 +3,17 @@ Generate random number with seed.
 
 # Usage
 
-## Init
+## Install
+```
+npm install seed-rand
+```
 
+## Init
+```
 var SeedRand = require('seed-rand');
+```
 
 ## Generate numbers
-```
 // Create instance with a seed.
 var sr = new SeedRand(88);
 
