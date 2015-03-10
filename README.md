@@ -14,6 +14,7 @@ var SeedRand = require('seed-rand');
 ```
 
 ## Generate numbers
+```
 // Create instance with a seed.
 var sr = new SeedRand(88);
 

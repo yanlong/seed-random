@@ -1,6 +1,6 @@
 function SeedRand(seed, mode) {
     this.seed = seed || 1;
-    this.mode = mode || 1;
+    this.mode = mode;
 }
 
 SeedRand.prototype.rand = function () {

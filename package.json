@@ -1,10 +1,10 @@
 {
   "name": "seed-rand",
-  "version": "1.0.0",
-  "description": "Generate random number with seed.",
+  "version": "1.0.3",
+  "description": "Generate random numbers with seed.",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "node test.js"
   },
   "keywords": [
     "random",
