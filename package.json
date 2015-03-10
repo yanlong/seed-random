@@ -1,6 +1,6 @@
 {
   "name": "seed-rand",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Generate random numbers with seed.",
   "main": "index.js",
   "scripts": {
